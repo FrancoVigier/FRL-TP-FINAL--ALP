@@ -1,0 +1,7 @@
+DefVar xA = Oi Oi Oi $ []
+DefVar xB = Oi $ Oi $ Oi $ []
+DefFoo f = Si Swap Si Od Oi
+DefVar yA = f $ []
+DefFoo g = Od Oi
+DefFoo h = Si Swap Si
+DefVar yB = h $ g $ []

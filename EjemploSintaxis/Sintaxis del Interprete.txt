@@ -1,0 +1,14 @@
+"Exit"                                  -----> Sale del Interprete
+"DefFoo name = Ops"  -----> Define una funcion, Ej DefFoo f = Oi Oi Oi Oi , funcion que agrega 4 ceros a la izq de una lista
+"DefVar name = Exp"    -----> Define una lista, Ej DefVar x = [], DefVar x = [1,2,...], DefVar x = y, DefVar x = f $ y, DefVar x = g f $ y, DefVar x = g $ f $ y
+                                                       Siempre y cuando si es una Aplicacion "$" lo que esté a la derecha del $ sea una lista y a la izq una funcion
+                                                       en el caso de DefVar x = Oi $ f $ g $ xs asocia así Oi (f(g xs)) por lo tanto (DefVar x = g $ f $ y) es lo mismo que DefVar x = g f $ y
+"LookFoo name"            -----> Busca en el entorno una funcion
+"LookVar name"             -----> Busca en el entorno una variable lista
+"f $ xs;"                              -----> Evalua una funcion f en una lista xs sin guardar el resultado. Ej f $ g $ xs; (con la asociatividad ya explicada), f g $ xs; ,
+                                                         Oi Si $ f g $ g $ [0,0,0], Di $<Sd> $ Od $ [2,0]; (mueve a la derecha el head de la lista)
+"LoadFile ./path"          -----> Carga un archivo con declaraciones al entorno, siempre poniendo el path global desde la carpeta main del proyecto
+                                                         Ej LoadFile ./EjemplosBuenosLoadFile/Reescritura.frl
+"Flush"                              -----> Borra el entorno de declaraciones
+"Peek"                               ----->Muestra el Entorno
+                                                         

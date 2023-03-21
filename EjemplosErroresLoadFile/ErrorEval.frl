@@ -1,0 +1,3 @@
+DefFoo g = Si Si
+DefVar x = []
+DefVar x = g $ x

@@ -1,0 +1,30 @@
+/home/vigier/.stack/programs/x86_64-linux/ghc-tinfo6-9.0.2/lib/ghc-9.0.2/include/ghcversion.h:
+  hash: b6281754d6dc5c5462a97f01fbffb615a7d9f031384e8e8250fce23e8f43f266
+? /mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/Paths_VigierFRL.hs
+: hash: 2d0c74ba43639ec89b2e9aa96bbc4e79a56c902f08d83dfa25e11362d0418357
+? /mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.4.1.0/build/autogen/cabal_macros.h
+: hash: c0b0caac0f0bc03270f18525bcf9b912919387a14051e07251c04145a0e0f4de
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/ChangeLog.md:
+  hash: b62a618d5879ec680fa8e8468b0e0bff58a2f10b15210f2038b7a98ad6ebb2c2
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/README.md:
+  hash: ce7c10e5a7e5c3cc40ba8e25de09372a6bd98c62aaba0e5a77908f33ca548eb7
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/VigierFRL.cabal:
+  hash: 66b4e15be8597d5ca38076c048dc87a8dcdc7f545774b721585afe50154cba29
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/package.yaml:
+  hash: 3a69cf7e9320737c2e6001b33c4b4cd7a5cdad8a4b3caa3dc459ff8169e5a6f1
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/Errors.hs:
+  hash: 6c64c9a805c0853df2aba7bf7846fd3f0ee7fd192680e6394f23d47b241492d9
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/Eval.hs:
+  hash: 158635f11105e5cf2ee6e7066c91efa8797b326daeb57e00b486d5fea8266df7
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/FRLMonad.hs:
+  hash: 0e8c9703d64438edf539f0ff42c2685a1f88376572d1fa60af7a1883289dbb9e
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/Global.hs:
+  hash: bd3727042231260b91cd2c0accd4042224563610c288942230e8e3fc350f052e
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/Lang.hs:
+  hash: 1d275f4891ac6fcdc973b4cd5ed15d2a977d5e7d22fc4d0f573dacbc2e224991
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/PPrinterFRL.hs:
+  hash: 208b13aebc2dfe33dac77c03952acdb484e48693ba3a16d1c09bcc9f93e73c99
+/mnt/c/Users/usuario/Desktop/Vallejos Vigier V2952-1 ALP/src/Parse.y:
+  hash: 792bef19031e3c5dfc934ef50c1c4ce94ace91319a102aa98c6ddc96b7ac8614
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

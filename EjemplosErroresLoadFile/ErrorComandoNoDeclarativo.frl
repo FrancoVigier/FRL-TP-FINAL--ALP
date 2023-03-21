@@ -1,0 +1,4 @@
+DefVar x = []
+DefFoo f = Oi
+Oi $ x;
+DefFoo g = Oi

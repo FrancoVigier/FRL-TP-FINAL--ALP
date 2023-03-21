@@ -1,0 +1,5 @@
+DefFoo MoverADer = Di <Sd> Od
+DefFoo MoverAIzq = Dd <Si> Oi
+DefFoo DuplicarIzq =  MoverAIzq <Si> Oi MoverADer
+DefFoo DuplicarDer = MoverADer <Sd> Od MoverAIzq
+DefFoo IntercambiarExtremos =MoverADer Di Dd <MoverAIzq MoverAIzq Si MoverADer MoverADer Si> Oi MoverAIzq Oi MoverADer

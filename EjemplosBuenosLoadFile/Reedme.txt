@@ -1,0 +1,5 @@
+Luego de cargar el archivo, usamos "Peek" para ver el estado del entorno completo o "LookVar" "LookFoo" para ver una variable especifica.
+En OpRepeticion.frl, se cargan funciones ya definidas en el eval del interprete pero haciendo que sean derivadas del operador REP. Esto es así
+por cuestiones de eficiencia ya que en el evaluador necesitamos rapidez usando la implementación de listas de haskell pero si queremos usar 
+el operador Rep para definirlas tambien se puede... pero al evaluar es más costoso
+ 

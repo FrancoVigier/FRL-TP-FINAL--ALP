@@ -1,0 +1,3 @@
+DefFoo Cinco =  Si Si Si Si Si
+DefVar Diez = Cinco $ [0]
+DefVar Diez = Cinco $ Diez

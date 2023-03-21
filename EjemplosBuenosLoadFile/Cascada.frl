@@ -1,0 +1,8 @@
+DefVar x  = [0,0,0]
+DefVar TresCeroCero = Si Si Si $ x
+DefVar CeroCeroTres = Md $ TresCeroCero 
+DefVar DosCeroTres = Si Si $ CeroCeroTres 
+DefVar CeroTresDos = Md $ DosCeroTres 
+DefVar UnoTresDos = Si $ CeroTresDos 
+DefVar DosTresUno = Swap $ UnoTresDos 
+DefVar Resultado = Md Md $ DosTresUno

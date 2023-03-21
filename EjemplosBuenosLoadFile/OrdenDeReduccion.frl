@@ -1,0 +1,4 @@
+DefFoo fy = Swap Si
+DefVar y = fy $ [0,0]
+DefFoo fz = Si Swap
+DefVar z = fz $ [0,0]
